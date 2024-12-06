@@ -1,0 +1,32 @@
+Selection Centre East , 
+Allahabad
+
+
+11SSB ------ 35xxx
+14SSB ------ 71xxx
+18 SSB----- 38xxx
+19SSB ----- 39xxx
+34 SSB----- 46xxx 
+
+
+Selection Centre Central , 
+Bhopal 
+
+
+20SSB----- 40XXX
+21SSB----- 72XXX
+22SSB----- 42XXX 
+
+Selection centre North , 
+Kapurthala
+
+
+31SSB ----- 81XXX
+32SSB----- 92XXX 
+
+
+
+Selection Centre South , Banglore
+
+17SSB ----- 63XXX
+24SSB ----- 68XXX..
