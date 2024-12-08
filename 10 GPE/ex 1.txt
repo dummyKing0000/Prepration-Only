@@ -1,0 +1,78 @@
+We are a group of _ students. We are confronted with the following problems:
+
+    Administer first aid to the injured (2 young girls mauled by a tigress) and evacuate to the nearest hospital.
+    Prevent the removal of fish plates / bomb blast / poisoning of water tank or milk van (MASS DISASTER) — The terrorists planted a road mine to kill the Chief Minister.
+    Prevent the theft of antique statue / deliver document / blast at the thermal power plant (NATIONAL LOSS).
+    Extinguish the fire in the thatched roof hut / recover sickle or mangalsutra, and if not possible, then monetarily compensate.
+
+After tackling the above problems, we have to play ___, match/enjoy picnic and return to hostel by ____.
+
+For tackling the problems, we have the following available:
+
+    Group
+    Able-bodied men at Vill Fox
+    College Bus
+    PHC at Vill Lion
+    Hospital at Town Deer
+    Ambulance
+    Weapons in Vill Tiger / Forest Guard
+    Motor boats
+    Fire Extinguishers
+    Half-hourly bus service between Deer and Bear
+    First Aid Kit
+
+Time Now is 1415 hrs.
+
+We will divide our group into 4 sub-groups and tackle the problems simultaneously.
+Sub Group 1:
+
+    Numbers: [Specify number of students]
+    Task: Administer first aid to the injured (2 girls mauled by a tigress) and evacuate to the nearest hospital.
+    Time Now: 1415 hrs
+    Distance: [Specify distance to the hospital]
+    Execution:
+        Use the first aid kit to stabilize the girls.
+        Transport the injured girls to the nearest hospital (Town Deer) using the ambulance.
+        Inform the police and relevant authorities about the tiger attack.
+    Completed by: [Specify the time]
+
+Sub Group 2:
+
+    Numbers: [Specify number of students]
+    Task: Prevent the road mine blast intended to kill the Chief Minister.
+    Time Now: 1415 hrs
+    Distance: [Specify distance to the site]
+    Execution:
+        Quickly move towards the location of the road mine (near the railway tracks).
+        Inform the police and bomb squad immediately.
+        Clear the area and ensure no one is near the blast site.
+        Assist in disarming the bomb, if possible.
+    Completed by: [Specify the time]
+
+Sub Group 3:
+
+    Numbers: [Specify number of students]
+    Task: Prevent the theft of the antique statue or a potential blast at the thermal power plant.
+    Time Now: 1415 hrs
+    Distance: [Specify distance to the thermal power plant or statue location]
+    Execution:
+        Secure the statue or the thermal power plant area.
+        Inform local authorities about the threat of theft or blast.
+        Coordinate with the police or security to ensure no further threat.
+    Completed by: [Specify the time]
+
+Sub Group 4:
+
+    Numbers: [Specify number of students]
+    Task: Extinguish the fire in the thatched roof hut or recover sickle/mangalsutra.
+    Time Now: 1415 hrs
+    Distance: [Specify distance to the hut or location]
+    Execution:
+        Use fire extinguishers to control the fire in the thatched roof hut.
+        If unable to recover sickle/mangalsutra, offer monetary compensation to the villager.
+        Report the fire situation to the police if needed.
+    Completed by: [Specify the time]
+
+After completing the tasks, we will get together at ____ (Specify location).
+
+This GPE structure ensures a systematic approach to dealing with the multiple issues simultaneously, dividing the tasks into sub-groups and focusing on the priorities at hand.
