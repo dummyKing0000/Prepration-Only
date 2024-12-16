@@ -24,7 +24,7 @@ For tackling the problems, we have the following available:
 Time Now is 1415 hrs.
 
 We will divide our group into 4 sub-groups and tackle the problems simultaneously.
-Sub Group 1:
+Sub Group 1: (according to time, like which task need to completed first with resp to time)
 
     Numbers: [Specify number of students]
     Task: Administer first aid to the injured (2 girls mauled by a tigress) and evacuate to the nearest hospital.
