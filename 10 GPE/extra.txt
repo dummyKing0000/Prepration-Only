@@ -66,3 +66,14 @@ Thrifting Boat - tie the rope to other boat, toe it to the shore
    Robbers / Dacoits / Smugglers → armed  
    Kidnappers → armed / unarmed
 3. work simultaneously 
+4. Time & Distance
+	metal road - 60 KM/Hr
+	unmetal road - 30 Km/Hr
+	still water - 15 Km/hr
+5. Mention timming in the paragraph	
+Sync your watch
+do a head count, after meeting at common point and head towards the destination
+
+Hidden Resources
+	Customer Vehicle 
+	
